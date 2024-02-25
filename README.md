@@ -6,9 +6,6 @@ ____________________________________________________________________________
 1. Professional Self Assessment
 2. Code Review
 3. Software Design and Engineering Enhancement
-    IT 145: Foundation in Application Development
 5. Algorithms and Data Structure Enhancement
-    IT 145: Foundation in Application Development
 7. Databases Enhancement
-    DAD 220: Introduction to SQL
-____________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________
