@@ -28,6 +28,8 @@ Code review is an important aspect of developing software as it finds errors, im
 I have designed, developed, and delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts through my code review.
 
 
+I have also employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science through my code review.
+
 ____________________________________________________________________________
 
 ### Software Design and Engineering Enhancement
