@@ -77,6 +77,9 @@ The artifact for the Algorithms and Data Structure category is the IT 145: Found
 [Link to IT 145 Enhanced Project](CS-499_Enhancement_Two_Abiel_Zamora.zip)
 
 
+[Included Dictionary Screenshot](Enhancement_2_Screenshot_Abiel_A_Zamora.png)
+
+
 **List of enhancements made:**
 
 1. Replaced list functionality with dictionary functionality.
