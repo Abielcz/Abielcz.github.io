@@ -27,7 +27,7 @@ ____________________________________________________________________________
 The artifact I chose for this category of enhancement is the IT 145: Foundation in Application Development project. This artifact is a Java program for rescue animals that allows users to add animal information to the system, show the animals in the system, and set them as reserved if needed. The artifact is used for dogs and monkeys as of right now and gathers information like name, animal type, training status, and in-service country. The original code was made with Java, had insufficient commenting, and had issues functioning as it had improper syntax and spelling of variables.
 
 
-[Link to IT 145 Original Project](/IT145_Original_Artifact_Abiel_Zamora.zip)
+[Link to IT 145 Original Project](/IT_145_Original_Artifact_Abiel_Zamora.zip)
 
 
 [Link to IT 145 Enhanced Project](/CS-499_Enhancement_One_Abiel_Zamora.zip)
@@ -58,10 +58,10 @@ The decision to include this artifact within my ePortfolio was made easy as this
 ### Algorithms and Data Structure Enhancement
 The artifact for the Algorithms and Data Structure category is the IT 145: Foundation in Application Development project described above. Originally the algorithmic logic, time complexity, and practices were flawed in this project.
 
-[Link To IT 145 Original Project](url)
+[Link To IT 145 Original Project](IT_145_Original_Artifact_Abiel_Zamora.zip)
 
 
-[Link to IT 145 Enhanced Project](url)
+[Link to IT 145 Enhanced Project](CS-499_Enhancement_Two_Abiel_Zamora.zip)
 
 
 **List of enhancements made:**
@@ -86,10 +86,10 @@ The decision to include this artifact within my ePortfolio was due to its abilit
 ### Databases Enhancement
 The artifact for the databases category is the DAD 220: Introduction to SQL project made sometime around 2022. It is a database that stores customer, order, and return information to allow a user to query or store data with it. This database is made with MySQL and is the first project I have made with this application. 
 
-[Link To DAD 220 Original Project](url)
+[Link To DAD 220 Original Project](DAD_220_Original_Artifact_Abiel_Zamora.zip)
 
 
-[Link to DAD 220 Enhanced Project](url)
+[Link to DAD 220 Enhanced Project](CS-499_Enhancement_Three_Abiel_Zamora.zip)
 
 
 **List of enhancements made:**
