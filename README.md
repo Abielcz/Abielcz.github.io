@@ -27,10 +27,10 @@ ____________________________________________________________________________
 The artifact I chose for this category of enhancement is the IT 145: Foundation in Application Development project. This artifact is a Java program for rescue animals that allows users to add animal information to the system, show the animals in the system, and set them as reserved if needed. The artifact is used for dogs and monkeys as of right now and gathers information like name, animal type, training status, and in-service country. The original code was made with Java, had insufficient commenting, and had issues functioning as it had improper syntax and spelling of variables.
 
 
-[Link to IT 145 Original Project](/CS-499_Enhancement_One_Abiel_Zamora.zip)
+[Link to IT 145 Original Project](/IT145_Original_Artifact_Abiel_Zamora.zip)
 
 
-[Link to IT 145 Enhanced Project](url)
+[Link to IT 145 Enhanced Project](/CS-499_Enhancement_One_Abiel_Zamora.zip)
 
 
 **List of enhancements made:**
