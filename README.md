@@ -1,5 +1,5 @@
-### Welcome
-I specialize in software development, algorithms, and data systems with a focus on building clean, efficient, and secure solutions. Below are selected projects that demonstrate my technical capabilities and growth as a developer. 
+<h2 align="center">### Welcome</h2>
+<p align="center"> specialize in software development, algorithms, and data systems with a focus on building clean, efficient, and secure solutions. Below are selected projects that demonstrate my technical capabilities and growth as a developer. </p>I
 
 ___________________________________________________________________________
 
@@ -41,7 +41,6 @@ Project: Animal Rescue Management System
 Originally developed in Java and enhanced in Python.
 
 [Original Java Project](/IT_145_Original_Artifact_Abiel_Zamora.zip)
-
 [Enhanced Python Version](/CS-499_Enhancement_One_Abiel_Zamora.zip)
 
 **Enhancements:**
@@ -65,7 +64,6 @@ ____________________________________________________________________________
 Project: Animal Rescue System (Enhanced)
 
 [Original Java Project](IT_145_Original_Artifact_Abiel_Zamora.zip)
-
 [Enhanced Python Project](CS-499_Enhancement_Two_Abiel_Zamora.zip)
 
 **List of enhancements made:**
@@ -88,7 +86,6 @@ ____________________________________________________________________________
 Project: Customer Orders & Returns Database (MySQL) 
 
 [Original SQL Project](DAD_220_Original_Artifact_Abiel_Zamora.zip)
-
 [Enhanced SQL Project](CS-499_Enhancement_Three_Abiel_Zamora.zip)
 
 **List of enhancements made:**
