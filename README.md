@@ -13,15 +13,14 @@ ___________________________________________________________________________
 ____________________________________________________________________________
 
 ### Professional Assessment
-Since beginning my Computer Science program at Southern New Hampshire University in 2021, I’ve developed a strong foundation in data structures, algorithms, software design, and database systems. My portfolio highlights growth across each of these areas through real-world projects and technical enhancements.
+My journey in computer science began during high school through a dual enrollment program, where I started college-level coursework before graduating. Despite challenges brought on by the COVID-19 pandemic, I remained committed to my path, transferring to Southern New Hampshire University, where I earned both my associate's and bachelor’s degrees in Computer Science.
 
-These artifacts demonstrate:
-- Proficiency in transitioning between programming languages (e.g., Java to Python).
-- Optimization of code efficiency and system performance.
-- Implementation of secure and maintainable database solutions.
-- Professional communication through code reviews and team collaboration.
-  
-My work not only reflects technical competency but also a growing ability to adapt to development environments and problem-solve effectively.
+Through this program, I built a strong foundation in data structures, algorithms, software design, and database systems. This portfolio reflects my technical growth through real-world projects that demonstrate:
+- Proficiency in transitioning between languages (e.g., Java to Python).
+- Optimized code for performance, clarity, and scalability.
+- Implementation of secure, maintainable database solutions.
+- Effective communication through code reviews and collaboration.
+My work demonstrates not just technical skills, but also adaptability, problem-solving, and a focus on writing clean, efficient, and secure code.
 
 ____________________________________________________________________________
 
