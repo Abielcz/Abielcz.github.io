@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="/assets/css/custom.css">
+
 Welcome to my portfolio. I specialize in software development, algorithms, and data systems with a focus on building clean, efficient, and secure solutions. Below are selected projects that demonstrate my technical capabilities and growth as a developer.
 
 ____________________________________________________________________________
