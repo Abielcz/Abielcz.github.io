@@ -27,58 +27,58 @@ These experiences reflect not only my technical growth but also my ability to ad
 ____________________________________________________________________________
 
 <h2 align="center">Code Review</h2>
-Peer and self-review are crucial in professional development. This code review evaluates the logic, structure, and readability of my core projects.
+<p align="center">Peer and self-review are crucial in professional development. This code review evaluates the logic, structure, and readability of my core projects.
 
-[Watch the Code Review](https://youtu.be/TTnRWUtUdeI?si=d8-RxAyysjD_SMZ0)
+[Watch the Code Review](https://youtu.be/TTnRWUtUdeI?si=d8-RxAyysjD_SMZ0)</p>
 
 <h3 align="center">Key Outcomes:</h3>
-- Demonstrated strong oral, written, and visual communication tailored to technical audiences.
-- Showcased the ability to build collaborative, constructive coding environments.
+<p align="center">- Demonstrated strong oral, written, and visual communication tailored to technical audiences.
+- Showcased the ability to build collaborative, constructive coding environments.</p>
 
 ____________________________________________________________________________
 
 <h2 align="center"> Software Design & Engineering</h2>
-Project: Animal Rescue Management System
-Originally developed in Java and enhanced in Python.
+<p align="center">Project: Animal Rescue Management System
+Originally developed in Java and enhanced in Python.</p>
 
 [Original Java Project](/IT_145_Original_Artifact_Abiel_Zamora.zip)
 [Enhanced Python Version](/CS-499_Enhancement_One_Abiel_Zamora.zip)
 
 <h3 align="center">Enhancements:</h3>
-- Translated to Python for clearer syntax and extensibility.
+<p align="center">- Translated to Python for clearer syntax and extensibility.
 - Refactored logic in the reservation and animal classification modules.
 - Improved error handling and input validation.
-- Cleaned up variable names, indentation, and code comments.
+- Cleaned up variable names, indentation, and code comments.</p>
 
 <h3 align="center">Outcome Met:</h3>
-- Applied object-oriented principles (inheritance, encapsulation).
+<p align="center">- Applied object-oriented principles (inheritance, encapsulation).
 - Improved user experience via streamlined input handling.
 - Boosted maintainability with a clear, modular design.
-- Demonstrated adaptability across languages.
+- Demonstrated adaptability across languages.</p>
 
 <h3 align="center">Reflection:</h3>
-This artifact demonstrates my ability to refactor legacy code while applying modern programming standards. Migration to Python and modular enhancements showcase growth in cross-language development and design thinking.
+<p align="center">This artifact demonstrates my ability to refactor legacy code while applying modern programming standards. Migration to Python and modular enhancements showcase growth in cross-language development and design thinking.</p>
 
 ____________________________________________________________________________
 
 <h2 align="center"> Algorithms & Data Structures</h3>
-Project: Animal Rescue System (Enhanced)
+<p align="center">Project: Animal Rescue System (Enhanced)</p>
 
 [Original Java Project](IT_145_Original_Artifact_Abiel_Zamora.zip)
 [Enhanced Python Project](CS-499_Enhancement_Two_Abiel_Zamora.zip)
 
 <h3 align="center">List of enhancements made:</h3>
-- Replaced list-based storage with dictionary structures.
+<p align="center">- Replaced list-based storage with dictionary structures.
 - Reduced time complexity from O(n) to O(1) for key operations.
-- Streamlined algorithmic logic and added input validation.
+- Streamlined algorithmic logic and added input validation.</p>
    
 <h3 align="center">Outcome Met:</h3>
-- Optimized data structures for real-time performance.
+<p align="center">- Optimized data structures for real-time performance.
 - Applied algorithmic principles to streamline reservation logic.
-- Balanced trade-offs between optimization and code readability.
+- Balanced trade-offs between optimization and code readability.</p>
 
 <h3 align="center">Reflection:</h3>
-This enhancement focused on improving computational efficiency while ensuring the system remained reliable and user-friendly. It demonstrates skills in algorithm optimization and data structure selection.
+<p align="center">This enhancement focused on improving computational efficiency while ensuring the system remained reliable and user-friendly. It demonstrates skills in algorithm optimization and data structure selection.</p>
 
 ____________________________________________________________________________
 
