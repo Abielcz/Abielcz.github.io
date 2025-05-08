@@ -1,4 +1,3 @@
-# Abiel A. Zamora – Software Developer Portfolio
 Welcome to my portfolio. I specialize in software development, algorithms, and data systems with a focus on building clean, efficient, and secure solutions. Below are selected projects that demonstrate my technical capabilities and growth as a developer.
 
 ____________________________________________________________________________
@@ -12,7 +11,7 @@ ____________________________________________________________________________
    
 ____________________________________________________________________________
 
-                     ![Picture of myself](me.jpg)
+![Picture of myself](me.jpg)
 
 ### Professional Assessment
 Since beginning my Computer Science program at Southern New Hampshire University in 2021, I’ve developed a strong foundation in data structures, algorithms, software design, and database systems. My portfolio highlights growth across each of these areas through real-world projects and technical enhancements.
