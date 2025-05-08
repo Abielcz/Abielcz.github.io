@@ -1,5 +1,5 @@
 ### Welcome
-I specialize in software development, algorithms, and data systems with a focus on building clean, efficient, and secure solutions. Below are selected projects that demonstrate my technical capabilities and growth as a developer.
+I specialize in software development, algorithms, and data systems with a focus on building clean, efficient, and secure solutions. Below are selected projects that demonstrate my technical capabilities and growth as a developer. 
 
 ___________________________________________________________________________
 
