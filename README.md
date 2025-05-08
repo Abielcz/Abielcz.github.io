@@ -1,9 +1,9 @@
-<h2 align="center">### Welcome</h2>
-<p align="center"> specialize in software development, algorithms, and data systems with a focus on building clean, efficient, and secure solutions. Below are selected projects that demonstrate my technical capabilities and growth as a developer. </p>I
+<h2 align="center">Welcome</h2>
+<p align="center"> I specialize in software development, algorithms, and data systems with a focus on building clean, efficient, and secure solutions. Below are selected projects that demonstrate my technical capabilities and growth as a developer. </p>
 
 ___________________________________________________________________________
 
-### Table of Contents
+<h2 align="center">Table of Contents
 1. Professional Assessment
 2. Code Review
 3. Software Design & Engineering
@@ -12,7 +12,7 @@ ___________________________________________________________________________
    
 ____________________________________________________________________________
 
-### Professional Assessment
+<h2 align="center">Professional Assessment
 Since a child, I knew computer science was my path forward in education. The dreams of becoming a game developer faded with age, and when new interests in cybersecurity, software engineering, and databases arose, I knew I had made the correct choice. I began my pursuit in computer science during my senior year of high school by partaking in dual enrollment courses, which allowed me to start my college studies in my senior year of high school with our local community college. Being part of the class of 2020 meant that the start of the COVID-19 pandemic would disrupt my studies, ultimately resulting in my transfer to Southern New Hampshire University, where I completed my associate's and bachelor's degrees.
 
 My time at SNHU helped me build a strong foundation in data structures, algorithms, software design, and database systems. This portfolio highlights my development through real-world projects and technical enhancements that demonstrate:
@@ -25,58 +25,58 @@ These experiences reflect not only my technical growth but also my ability to ad
 
 ____________________________________________________________________________
 
-### Code Review
+<h2 align="center">Code Review
 Peer and self-review are crucial in professional development. This code review evaluates the logic, structure, and readability of my core projects.
 
 [Watch the Code Review](https://youtu.be/TTnRWUtUdeI?si=d8-RxAyysjD_SMZ0)
 
-**Key Outcomes:**
+<h3 align="center">Key Outcomes:**
 - Demonstrated strong oral, written, and visual communication tailored to technical audiences.
 - Showcased the ability to build collaborative, constructive coding environments.
 
 ____________________________________________________________________________
 
-### Software Design & Engineering
+<h2 align="center"> Software Design & Engineering
 Project: Animal Rescue Management System
 Originally developed in Java and enhanced in Python.
 
 [Original Java Project](/IT_145_Original_Artifact_Abiel_Zamora.zip)
 [Enhanced Python Version](/CS-499_Enhancement_One_Abiel_Zamora.zip)
 
-**Enhancements:**
+<h3 align="center">Enhancements:**
 - Translated to Python for clearer syntax and extensibility.
 - Refactored logic in the reservation and animal classification modules.
 - Improved error handling and input validation.
 - Cleaned up variable names, indentation, and code comments.
 
-**Outcome Met:**
+<h3 align="center">Outcome Met:**
 - Applied object-oriented principles (inheritance, encapsulation).
 - Improved user experience via streamlined input handling.
 - Boosted maintainability with a clear, modular design.
 - Demonstrated adaptability across languages.
 
-**Reflection:**
+<h3 align="center">Reflection:**
 This artifact demonstrates my ability to refactor legacy code while applying modern programming standards. Migration to Python and modular enhancements showcase growth in cross-language development and design thinking.
 
 ____________________________________________________________________________
 
-### Algorithms & Data Structures
+<h2 align="center"> Algorithms & Data Structures
 Project: Animal Rescue System (Enhanced)
 
 [Original Java Project](IT_145_Original_Artifact_Abiel_Zamora.zip)
 [Enhanced Python Project](CS-499_Enhancement_Two_Abiel_Zamora.zip)
 
-**List of enhancements made:**
+<h3 align="center">List of enhancements made:**
 - Replaced list-based storage with dictionary structures.
 - Reduced time complexity from O(n) to O(1) for key operations.
 - Streamlined algorithmic logic and added input validation.
    
-**Outcome Met:**
+<h3 align="center">Outcome Met:**
 - Optimized data structures for real-time performance.
 - Applied algorithmic principles to streamline reservation logic.
 - Balanced trade-offs between optimization and code readability.
 
-**Reflection:**
+<h3 align="center">Reflection:**
 This enhancement focused on improving computational efficiency while ensuring the system remained reliable and user-friendly. It demonstrates skills in algorithm optimization and data structure selection.
 
 ____________________________________________________________________________
