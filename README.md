@@ -1,17 +1,7 @@
 ### Welcome
  <p align="center">I specialize in software development, algorithms, and data systems with a focus on building clean, efficient, and secure solutions. Below are selected projects that demonstrate my technical capabilities and growth as a developer.</p>
 
-___________________________________________________________________________
-
-### Table of Contents
-<p align="center">1. Professional Assessment</p>
-<p align="center">2. Code Review</p>
-<p align="center">3. Software Design & Engineering</p>
-<p align="center">4. Algorithms & Data Structures</p>
-<p align="center">5. Database Systems</p>
-
-
-____________________________________________________________________________
+________________________________________________
 
 ### Professional Assessment
 Since a child, I knew computer science was my path forward in education. The dreams of becoming a game developer faded with age, and when new interests in cybersecurity, software engineering, and databases arose, I knew I had made the correct choice. I began my pursuit in computer science during my senior year of high school by partaking in dual enrollment courses, which allowed me to start my college studies in my senior year of high school with our local community college. Being part of the class of 2020 meant that the start of the COVID-19 pandemic would disrupt my studies, ultimately resulting in my transfer to Southern New Hampshire University, where I completed my associate's and bachelor's degrees.
@@ -129,5 +119,5 @@ This project reflects my ability to implement advanced database features (e.g., 
 ____________________________________________________________________________
 
 ### Contact Me
-<p align="center">**Email: [abielczamora@gmail.com](mailto:abielczamora@gmail.com)**
-**Github: [Abielcz](https://github.com/Abielcz)**</p>
+   **Email: [abielczamora@gmail.com](mailto:abielczamora@gmail.com)**
+   **Github: [Abielcz](https://github.com/Abielcz)**
