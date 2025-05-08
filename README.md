@@ -104,3 +104,10 @@ Project: Customer Orders & Returns Database (MySQL)
 
 **Reflection:**
 This project reflects my ability to implement advanced database features (e.g., indexing, triggers, encryption) and improve both performance and security in enterprise-level systems.
+
+____________________________________________________________________________
+
+### Contact Me
+**Email: [abielczamora@gmail.com](mailto:abielczamora@gmail.com)**
+**Github: [Abielcz](https://github.com/Abielcz)**
+
