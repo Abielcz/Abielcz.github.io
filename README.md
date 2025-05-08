@@ -15,11 +15,12 @@ ____________________________________________________________________________
 ### Professional Assessment
 My journey in computer science began during high school through a dual enrollment program, where I started college-level coursework before graduating. Despite challenges brought on by the COVID-19 pandemic, I remained committed to my path, transferring to Southern New Hampshire University, where I earned both my associate's and bachelor’s degrees in Computer Science.
 
-Through this program, I built a strong foundation in data structures, algorithms, software design, and database systems. This portfolio reflects my technical growth through real-world projects that demonstrate:
+Through this program, I built a strong foundation in data structures, algorithms, software design, and database systems. This portfolio reflects my technical growth through projects that demonstrate:
 - Proficiency in transitioning between languages (e.g., Java to Python).
 - Optimized code for performance, clarity, and scalability.
 - Implementation of secure, maintainable database solutions.
 - Effective communication through code reviews and collaboration.
+  
 My work demonstrates not just technical skills, but also adaptability, problem-solving, and a focus on writing clean, efficient, and secure code.
 
 ____________________________________________________________________________
