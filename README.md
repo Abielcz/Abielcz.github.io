@@ -67,8 +67,6 @@ Project: Animal Rescue System (Enhanced)
 
 [Enhanced Python Project](CS-499_Enhancement_Two_Abiel_Zamora.zip)
 
-![Dictionary Screenshot](Enhancement_2_Screenshot_Abiel_A_Zamora.png)
-
 **List of enhancements made:**
 - Replaced list-based storage with dictionary structures.
 - Reduced time complexity from O(n) to O(1) for key operations.
