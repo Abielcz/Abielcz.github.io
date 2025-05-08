@@ -15,11 +15,13 @@ ____________________________________________________________________________
 ### Professional Assessment
 Since a child, I knew computer science was my path forward in education. The dreams of becoming a game developer faded with age, and when new interests in cybersecurity, software engineering, and databases arose, I knew I had made the correct choice. I began my pursuit in computer science during my senior year of high school by partaking in dual enrollment courses, which allowed me to start my college studies in my senior year of high school with our local community college. Being part of the class of 2020 meant that the start of the COVID-19 pandemic would disrupt my studies, ultimately resulting in my transfer to Southern New Hampshire University, where I completed my associate's and bachelor's degrees.
 
+
 My time at SNHU helped me build a strong foundation in data structures, algorithms, software design, and database systems. This portfolio highlights my development through real-world projects and technical enhancements that demonstrate:
--Proficiency in transitioning between programming languages (e.g., Java to Python)
--Optimization of code efficiency and system performance
--Implementation of secure, maintainable database solutions
--Effective communication and collaboration through code reviews
+- Proficiency in transitioning between programming languages (e.g., Java to Python)
+- Optimization of code efficiency and system performance
+- Implementation of secure, maintainable database solutions
+- Effective communication and collaboration through code reviews
+
 
 These experiences reflect not only my technical growth but also my ability to adapt and problem-solve in evolving development environments.
 
