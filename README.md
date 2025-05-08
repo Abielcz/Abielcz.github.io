@@ -1,14 +1,14 @@
 ### Welcome
- I specialize in software development, algorithms, and data systems with a focus on building clean, efficient, and secure solutions. Below are selected projects that demonstrate my technical capabilities and growth as a developer.
+ <p align="center">I specialize in software development, algorithms, and data systems with a focus on building clean, efficient, and secure solutions. Below are selected projects that demonstrate my technical capabilities and growth as a developer.</p>
 
 ___________________________________________________________________________
 
 ### Table of Contents
-1. Professional Assessment
-2. Code Review
-3. Software Design & Engineering
-4. Algorithms & Data Structures
-5. Database Systems
+<p align="center">1. Professional Assessment</p>
+<p align="center">2. Code Review</p>
+<p align="center">3. Software Design & Engineering</p>
+<p align="center">4. Algorithms & Data Structures</p>
+<p align="center">5. Database Systems</p>
 
 
 ____________________________________________________________________________
@@ -127,5 +127,5 @@ This project reflects my ability to implement advanced database features (e.g., 
 ____________________________________________________________________________
 
 ### Contact Me
-**Email: [abielczamora@gmail.com](mailto:abielczamora@gmail.com)**
-**Github: [Abielcz](https://github.com/Abielcz)**
+<p align="center">**Email: [abielczamora@gmail.com](mailto:abielczamora@gmail.com)**
+**Github: [Abielcz](https://github.com/Abielcz)**</p>
