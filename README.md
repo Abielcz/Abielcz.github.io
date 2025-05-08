@@ -3,13 +3,6 @@ I specialize in software development, algorithms, and data systems with a focus 
 
 ___________________________________________________________________________
 
-### 📬 Contact Me
-Feel free to reach out:
-
-- Email: [abielczamora@gmail.com](mailto:abielczamora@gmail.com)
-
-___________________________________________________________________________
-
 ### Table of Contents
 1. Professional Assessment
 2. Code Review
