@@ -23,7 +23,7 @@ ____________________________________________________________________________
 Peer and self-review are crucial in professional development. This code review evaluates the logic, structure, and readability of my core projects.
 
 
-[Watch the Code Review](https://youtu.be/TTnRWUtUdeI?si=d8-RxAyysjD_SMZ0)
+- [Watch the Code Review](https://youtu.be/TTnRWUtUdeI?si=d8-RxAyysjD_SMZ0)
 
 
 **Key Outcomes:**
@@ -38,8 +38,8 @@ Project: Animal Rescue Management System
 Originally developed in Java and enhanced in Python.
 
 
-[Original Java Project](/IT_145_Original_Artifact_Abiel_Zamora.zip)
-[Enhanced Python Version](/CS-499_Enhancement_One_Abiel_Zamora.zip)
+- [Original Java Project](/IT_145_Original_Artifact_Abiel_Zamora.zip)
+- [Enhanced Python Version](/CS-499_Enhancement_One_Abiel_Zamora.zip)
 
 
 **Enhancements:**
@@ -66,8 +66,8 @@ ____________________________________________________________________________
 Project: Animal Rescue System (Enhanced)
 
 
-[Original Java Project](IT_145_Original_Artifact_Abiel_Zamora.zip)
-[Enhanced Python Project](CS-499_Enhancement_Two_Abiel_Zamora.zip)
+- [Original Java Project](IT_145_Original_Artifact_Abiel_Zamora.zip)
+- [Enhanced Python Project](CS-499_Enhancement_Two_Abiel_Zamora.zip)
 
 
 **List of enhancements made:**
@@ -93,8 +93,8 @@ ____________________________________________________________________________
 Project: Customer Orders & Returns Database (MySQL) 
 
 
-[Original SQL Project](DAD_220_Original_Artifact_Abiel_Zamora.zip)
-[Enhanced SQL Project](CS-499_Enhancement_Three_Abiel_Zamora.zip)
+- [Original SQL Project](DAD_220_Original_Artifact_Abiel_Zamora.zip)
+- [Enhanced SQL Project](CS-499_Enhancement_Three_Abiel_Zamora.zip)
 
 
 **List of enhancements made:**
