@@ -1,20 +1,19 @@
 <h2 align="center">Welcome</h2>
-<p align="center"> I specialize in software development, algorithms, and data systems with a focus on building clean, efficient, and secure solutions. Below are selected projects that demonstrate my technical capabilities and growth as a developer. </p>
+I specialize in software development, algorithms, and data systems with a focus on building clean, efficient, and secure solutions. Below are selected projects that demonstrate my technical capabilities and growth as a developer.
 
 ___________________________________________________________________________
 
 <h2 align="center">Table of Contents</h2>
-<p align="center">
 1. Professional Assessment
 2. Code Review
 3. Software Design & Engineering
 4. Algorithms & Data Structures
-5. Database Systems</p>
-   
+5. Database Systems
+
 ____________________________________________________________________________
 
 <h2 align="center">Professional Assessment</h2>
-<p align="center">Since a child, I knew computer science was my path forward in education. The dreams of becoming a game developer faded with age, and when new interests in cybersecurity, software engineering, and databases arose, I knew I had made the correct choice. I began my pursuit in computer science during my senior year of high school by partaking in dual enrollment courses, which allowed me to start my college studies in my senior year of high school with our local community college. Being part of the class of 2020 meant that the start of the COVID-19 pandemic would disrupt my studies, ultimately resulting in my transfer to Southern New Hampshire University, where I completed my associate's and bachelor's degrees.
+Since a child, I knew computer science was my path forward in education. The dreams of becoming a game developer faded with age, and when new interests in cybersecurity, software engineering, and databases arose, I knew I had made the correct choice. I began my pursuit in computer science during my senior year of high school by partaking in dual enrollment courses, which allowed me to start my college studies in my senior year of high school with our local community college. Being part of the class of 2020 meant that the start of the COVID-19 pandemic would disrupt my studies, ultimately resulting in my transfer to Southern New Hampshire University, where I completed my associate's and bachelor's degrees.
 
 My time at SNHU helped me build a strong foundation in data structures, algorithms, software design, and database systems. This portfolio highlights my development through real-world projects and technical enhancements that demonstrate:
 -Proficiency in transitioning between programming languages (e.g., Java to Python)
@@ -22,7 +21,7 @@ My time at SNHU helped me build a strong foundation in data structures, algorith
 -Implementation of secure, maintainable database solutions
 -Effective communication and collaboration through code reviews
 
-These experiences reflect not only my technical growth but also my ability to adapt and problem-solve in evolving development environments.</p>
+These experiences reflect not only my technical growth but also my ability to adapt and problem-solve in evolving development environments.
 
 ____________________________________________________________________________
 
