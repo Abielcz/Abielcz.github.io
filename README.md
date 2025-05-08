@@ -57,7 +57,7 @@ Originally developed in Java and enhanced in Python.
 
 
 **Reflection:**
-This artifact demonstrates my ability to refactor legacy code while applying modern programming standards. Migration to Python and modular enhancements showcase growth in cross-language development and design thinking.
+- This artifact demonstrates my ability to refactor legacy code while applying modern programming standards. Migration to Python and modular enhancements showcase growth in cross-language development and design thinking.
 
 
 ____________________________________________________________________________
@@ -83,8 +83,7 @@ Project: Animal Rescue System (Enhanced)
 
 
 **Reflection:**
-
-This enhancement focused on improving computational efficiency while ensuring the system remained reliable and user-friendly. It demonstrates skills in algorithm optimization and data structure selection.
+- This enhancement focused on improving computational efficiency while ensuring the system remained reliable and user-friendly. It demonstrates skills in algorithm optimization and data structure selection.
 
 
 ____________________________________________________________________________
@@ -112,12 +111,11 @@ Project: Customer Orders & Returns Database (MySQL)
 
 
 **Reflection:**
-
-This project reflects my ability to implement advanced database features (e.g., indexing, triggers, encryption) and improve both performance and security in enterprise-level systems.
+- This project reflects my ability to implement advanced database features (e.g., indexing, triggers, encryption) and improve both performance and security in enterprise-level systems.
 
 
 ____________________________________________________________________________
 
 ### Contact Me
-   **Email: [abielczamora@gmail.com](mailto:abielczamora@gmail.com)**
-   **Github: [Abielcz](https://github.com/Abielcz)**
+**Email: [abielczamora@gmail.com](mailto:abielczamora@gmail.com)**
+**Github: [Abielcz](https://github.com/Abielcz)**
