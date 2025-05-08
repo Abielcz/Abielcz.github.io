@@ -1,3 +1,7 @@
-title: Developer Portfolio
-description: Abiel A. Zamora
-remote_theme: pages-themes/minimal@v0.2.0
+title:
+Developer Portfolio
+description: 
+Abiel A. Zamora
+![Picture of myself](me.jpg)
+remote_theme:
+pages-themes/minimal@v0.2.0
