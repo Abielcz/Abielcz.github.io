@@ -93,6 +93,7 @@ Project: Animal Rescue System (Enhanced)
 
 
 **Reflection:**
+
 This enhancement focused on improving computational efficiency while ensuring the system remained reliable and user-friendly. It demonstrates skills in algorithm optimization and data structure selection.
 
 
@@ -115,12 +116,13 @@ Project: Customer Orders & Returns Database (MySQL)
 
 
 **Outcome Met:**
--Applied database optimization and automation strategies.
--Incorporated security measures into data management.
--Designed scalable, real-world SQL-based systems.
+- Applied database optimization and automation strategies.
+- Incorporated security measures into data management.
+- Designed scalable, real-world SQL-based systems.
 
 
 **Reflection:**
+
 This project reflects my ability to implement advanced database features (e.g., indexing, triggers, encryption) and improve both performance and security in enterprise-level systems.
 
 
