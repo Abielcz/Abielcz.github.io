@@ -4,7 +4,7 @@
 ________________________________________________
 
 ### Professional Assessment
-Since a child, I knew computer science was my path forward in education. The dreams of becoming a game developer faded with age, and when new interests in cybersecurity, software engineering, and databases arose, I knew I had made the correct choice. I began my pursuit in computer science during my senior year of high school by partaking in dual enrollment courses, which allowed me to start my college studies early with our local community college. Being part of the class of 2020 meant that the start of the COVID-19 pandemic would disrupt my studies, ultimately resulting in my transfer to Southern New Hampshire University, where I completed my associate's and bachelor's degrees.
+Since a child, I knew computer science was my path forward in education. The dreams of becoming a game developer faded with age, and when new interests in cybersecurity, software engineering, and databases arose, I knew I had made the correct choice. I began my pursuit of computer science during my senior year of high school by partaking in dual enrollment courses, which allowed me to start my college studies early at our local community college. Being part of the class of 2020 meant that the start of the COVID-19 pandemic would disrupt my studies, ultimately resulting in my transfer to Southern New Hampshire University, where I completed my associate's and bachelor's degrees.
 
 
 My time at SNHU helped me build a strong foundation in data structures, algorithms, software design, and database systems. This portfolio highlights my development through projects and technical enhancements that demonstrate:
@@ -38,8 +38,8 @@ Project: Animal Rescue Management System
 Originally developed in Java and enhanced in Python.
 
 
-- [Original Java Project](/IT_145_Original_Artifact_Abiel_Zamora.zip)
-- [Enhanced Python Version](/CS-499_Enhancement_One_Abiel_Zamora.zip)
+- [Original Java Project](/assets/IT_145_Original_Artifact_Abiel_Zamora.zip)
+- [Enhanced Python Version](/assets//CS-499_Enhancement_One_Abiel_Zamora.zip)
 
 
 **Enhancements:**
@@ -66,8 +66,8 @@ ____________________________________________________________________________
 Project: Animal Rescue System (Enhanced)
 
 
-- [Original Java Project](IT_145_Original_Artifact_Abiel_Zamora.zip)
-- [Enhanced Python Project](CS-499_Enhancement_Two_Abiel_Zamora.zip)
+- [Original Java Project](/assets/IT_145_Original_Artifact_Abiel_Zamora.zip)
+- [Enhanced Python Project](/assets/CS-499_Enhancement_Two_Abiel_Zamora.zip)
 
 
 **List of enhancements made:**
@@ -93,8 +93,8 @@ ____________________________________________________________________________
 Project: Customer Orders & Returns Database (MySQL) 
 
 
-- [Original SQL Project](DAD_220_Original_Artifact_Abiel_Zamora.zip)
-- [Enhanced SQL Project](CS-499_Enhancement_Three_Abiel_Zamora.zip)
+- [Original SQL Project](/assets/DAD_220_Original_Artifact_Abiel_Zamora.zip)
+- [Enhanced SQL Project](/assets/CS-499_Enhancement_Three_Abiel_Zamora.zip)
 
 
 **List of enhancements made:**
