@@ -1,4 +1,4 @@
 title: ePortfolio
 description: Abiel A. Zamora | abielczamora@gmail.com
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
-plugins: jekyll-include-cache
+plugins: - jekyll-include-cache
